@@ -22,7 +22,7 @@ Additional Questions
  *Questions 2 : There are many methods that may vary depending on the environment in which the scripts are run. 
   For example, if the scripts are running in windows environment, task scheduler can be used. Or we can write ourselves a task scheduler using python.
  
- *Questions 3 : There are certain rules in the API working logic. 
+ *Questions 3 : API is the easiest method of communication between applications. There are certain rules in the API working logic. 
   API interprets requests from another application according to its own rules and returns a response. Simply, this is how it works.
 
 
